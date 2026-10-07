@@ -26,6 +26,7 @@ Software Preservation and a little bit of fun
 | ✅ | 22H2 | [Universal](https://github.com/RaySollium99/MCTArchive/raw/refs/heads/main/MediaCreationTool22H2.exe) |
 
 ### Downloads (Windows 11)
+
 | DL | Ver. | Link |
 | -- | ---- | ---- |
 | ✅ | 21H2 | [Universal](https://github.com/RaySollium99/MCTArchive/raw/refs/heads/main/Windows11/MediaCreationTool21H2.exe) |
@@ -33,4 +34,5 @@ Software Preservation and a little bit of fun
 | ✅ | 23H2 | [Universal](https://github.com/RaySollium99/MCTArchive/raw/refs/heads/main/Windows11/MediaCreationTool23H2.exe) |
 | ✅ | 24H2 | [Universal](https://github.com/RaySollium99/MCTArchive/raw/refs/heads/main/Windows11/MediaCreationTool24H2.exe) |
 | ✅ | 25H2 | [Universal](https://github.com/RaySollium99/MCTArchive/raw/refs/heads/main/Windows11/MediaCreationTool25H2.exe) |
-| ❌ | 26H2 | N/A |
+| ✅ | 26H2 | [Universal](https://github.com/RaySollium99/MCTArchive/raw/refs/heads/main/Windows11/MediaCreationTool26H2.exe) |
+| ❌ | 27H2 | N/A |
